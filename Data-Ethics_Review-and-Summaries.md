@@ -165,11 +165,11 @@
 
 **Privacy** = a human attribute of **four elements**, in two categories :
 - **Control of external influences:**
-  1. **Solitude** (be alone),
-  2. **Anonymity** (no public identity),
-  3. **Intimacy** (not monitored).
+  - 1. **Solitude** (be alone),
+  - 2. **Anonymity** (no public identity),
+  - 3. **Intimacy** (not monitored).
 - **Control of personal information:**
-  4. **Reserve** (control your info & how it spreads).
+  - 4. **Reserve** (control your info & how it spreads).
 
 **Types of Privacy** : 
   - **Personal** (personal *attributes*; e.g., US 4th Amendment) ·
