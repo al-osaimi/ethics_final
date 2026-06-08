@@ -260,8 +260,10 @@ Under the Saudi Personal Data Protection Law (PDPL), the Controller shall **not 
 - **Evaluation Bias**  benchmark not matching the use population (e.g., facial-analysis tools).
 - **Deployment Bias**  risk-assessment tools used in practice.
 
-*Memory tip:* 3 in data generation, 3 in model building, + **Deployment** (real-world use). Detecting bias **after deployment** → **continuous monitoring & auditing**. Imbalanced data → the model **favors the over-represented group** (never "auto-unbiased").
-
+> [!TIP]
+> - 3 in data generation.
+> - 3 in model building
+> - 1 in Deployment (real-world use)
 ---
 
 ## 7. Intellectual Property Types
