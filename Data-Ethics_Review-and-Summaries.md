@@ -1,6 +1,6 @@
 
 
-#  Data & Ethics — Final Exam Review
+#  Data & Ethics  Final Exam Review
 
 Quick-revision notes for the final, organized to match the **10 exam topics** from the *Topics* slides.
 
@@ -10,9 +10,9 @@ Quick-revision notes for the final, organized to match the **10 exam topics** fr
 1. [Moral, Ethics, Law & Society](#1-moral-ethics-law--society)
 2. [Ethical Theories (+ judging a case)](#2-ethical-theories)
 3. [Code of Ethics vs Code of Conduct](#3-code-of-ethics-vs-code-of-conduct)
-4. [Security — CIA, Encryption, Digital Signature](#4-security--cia-encryption-digital-signature)
+4. [Security  CIA, Encryption, Digital Signature](#4-security--cia-encryption-digital-signature)
 5. [Privacy & Information/Data Disclosure](#5-privacy--informationdata-disclosure)  ·  incl. [Acts & External Frameworks (SDAIA, GDPR)](#56-acts--external-frameworks)
-6. [Bias & Fairness — Seven Sources of Harm](#6-bias--fairness--seven-sources-of-harm)
+6. [Bias & Fairness  Seven Sources of Harm](#6-bias--fairness--seven-sources-of-harm)
 7. [Intellectual Property Types](#7-intellectual-property-types)
 8. [Data and Ethics](#8-data-and-ethics)
 9. [Ethical Issues in Data / Cybersecurity](#9-ethical-issues-in-data--cybersecurity)
@@ -21,26 +21,26 @@ Quick-revision notes for the final, organized to match the **10 exam topics** fr
 
 ---
 
-## 1. Moral, Ethics, Law & Society
-⚖️ *(الأخلاق، المبادئ، القانون والمجتمع)*
+## 1. Moral, Ethics, Law & Society *(الأخلاق، المبادئ، القانون والمجتمع)*
+
 
 **Morality vs Ethics**
 
 | | **Ethics** (الأخلاق العامة) | **Morals** (المبادئ الشخصية) |
 |---|---|---|
 | **What** | Rules of conduct for a class of actions / a group / culture | Personal principles or habits of right & wrong |
-| **Source** | **Social system — External** | **Individual — Internal** |
+| **Source** | **Social system  External** | **Individual  Internal** |
 | **Why** | Society says it's the right thing | We believe something is right/wrong |
 | **Origin** | Greek *"ethos"* = **character** | Latin *"mos"* = **custom** |
 | **Acceptability** | Governed by professional/legal guidelines in a time & place | Transcends cultural norms |
 
 **Society → Morality → Ethics → Law**
-- **Society:** people in communities — universal, local, and online (Zoom, Reddit, Discord).
+- **Society:** people in communities  universal, local, and online (Zoom, Reddit, Discord).
 - **Law:** rules of conduct, enforceable by a formal body; **laws are derived from moral codes**. Two types:
-  - **Natural Law (القانون الطبيعي):** unwritten but **universal** — rights of self-preservation, property, liberty, and human dignity. Civilization is based on it.
+  - **Natural Law (القانون الطبيعي):** unwritten but **universal**  rights of self-preservation, property, liberty, and human dignity. Civilization is based on it.
   - **Conventional Law (القانون الوضعي):** made by and for humans, **varies by society**; protects life/property/liberty and prescribes punishments (penal code).
 
-**Is computer ethics unique? — Walter Maner**
+**Is computer ethics unique?  Walter Maner**
 - Some issues are so **transformed** by computers they deserve study in their **radically altered form**; computing can create **entirely new ethical issues** unique to it.
 - Why study it:
   1. to **behave** like responsible professionals;
@@ -49,10 +49,9 @@ Quick-revision notes for the final, organized to match the **10 exam topics** fr
 
 ---
 
-## 2. Ethical Theories
-🧭 *(النظريات الأخلاقية)*
+## 2. Ethical Theories *(النظريات الأخلاقية)*
 
-**Summary table — what each decision is based on:**
+**Summary table  what each decision is based on:**
 
 | Theory (النظرية) | Decision is based on… |
 |---|---|
@@ -61,31 +60,31 @@ Quick-revision notes for the final, organized to match the **10 exam topics** fr
 | 3. Human Nature (الطبيعة البشرية) | the **capabilities** of the actor |
 | 4. Relativism (النسبية) | what's **relative to society** (no universal norms) |
 | 5. Hedonism (اللذة) | seeking **maximum pleasure** for all |
-| 6. Emotivism (العاطفية) | **feelings** — statements are neither true nor false, depend on the person |
+| 6. Emotivism (العاطفية) | **feelings**  statements are neither true nor false, depend on the person |
 | 7. Virtue (الفضيلة) | the actor's **character** (the "mean") |
 
 **Each theory + 2 examples:**
 
-- **Consequentialism (العواقبية)** — judged by results. Types:
+- **Consequentialism (العواقبية)**  judged by results. Types:
   - **Egoism (الأنانية)** = self first;
   - **Utilitarianism (النفعية)** = the group first;
   - **Altruism (الإيثار)** = favours everyone *except* the actor.
   - **Examples:**
     - Releasing an AI model is "good" because overall it helps more than it harms.
     - Collecting data without consent is "right" only if benefits outweigh harms.
-- **Deontology (الواجب)** — good if done as a duty.
+- **Deontology (الواجب)**  good if done as a duty.
   - Killing vs killing to save lives.
   - Hacking vs **ethical hacking** (a tester with permission acts from duty).
-- **Human Nature (الطبيعة البشرية)** — judged by the actor's capabilities.
-  - "Guilty by reason of insanity" — the actor lacked capability.
+- **Human Nature (الطبيعة البشرية)**  judged by the actor's capabilities.
+  - "Guilty by reason of insanity"  the actor lacked capability.
   - Letting people with no technical skills make data decisions → bad choices.
-- **Relativism (النسبية)** — right/wrong depend on society and **change over time**.
+- **Relativism (النسبية)**  right/wrong depend on society and **change over time**.
   - Accessing a child's phone/data: normal in KSA, viewed differently in the US.
-  - Marrying within the (royal) family — accepted in some societies, not others.
-- **Hedonism (اللذة)** — pleasure is the **only** good; people *ought* to seek it.
+  - Marrying within the (royal) family  accepted in some societies, not others.
+- **Hedonism (اللذة)**  pleasure is the **only** good; people *ought* to seek it.
   - Choosing the most enjoyable option is the "right" one.
   - Sharing personal data for fun/convenient apps because the pleasure is treated as good.
-- **Emotivism (العاطفية)** — statements just express **how someone feels**.
+- **Emotivism (العاطفية)**  statements just express **how someone feels**.
   - "Gun restrictions are bad" = they make me feel unsafe.
   - Using a machine (not a human) for elderly patients/bank transactions is "wrong" because it makes them nervous.
 
@@ -97,14 +96,14 @@ Quick-revision notes for the final, organized to match the **10 exam topics** fr
 - **Case against:** people differ on "human flourishing"; it can't guide **government policy**; it can **undermine holding people responsible**.
 
 > [!TIP]
-> **Worked case — judging ONE case with multiple theories** *(the "judge a case using different theories" skill)*
+> **Worked case  judging ONE case with multiple theories** *(the "judge a case using different theories" skill)*
 > *Scenario: a company suffers a minor breach and considers staying silent to avoid panic.*
 > - **Deontology:** honesty is a **duty** → must inform customers, regardless of consequences.
-> - **Utilitarianism (consequentialism):** weigh harms — concealment risks bigger downstream harm (fraud, lost trust) → disclose + mitigate.
+> - **Utilitarianism (consequentialism):** weigh harms  concealment risks bigger downstream harm (fraud, lost trust) → disclose + mitigate.
 > - **Virtue ethics:** an honest, responsible person (good character) discloses and takes responsibility.
 > - **Judgment:** all three converge → **disclose and remediate.**
 
-**Course example (Virtue Ethics) — Matt & Josh** *(Scenario Book 1, 2.10.2, p.91)*
+**Course example (Virtue Ethics)  Matt & Josh** *(Scenario Book 1, 2.10.2, p.91)*
 - Matt's capstone code didn't meet spec; teammates rewrote it; in the final presentation he **claimed it as his own**. He asks Josh for a false good review so he can stay in school.
 - **Decision (virtue ethics):** Josh must be **truthful** with the professor, won't just say "Matt was poor," and **takes responsibility for his own role** in the outcome → honesty + accountability.
 
@@ -119,14 +118,13 @@ Quick-revision notes for the final, organized to match the **10 exam topics** fr
 
 ---
 
-## 3. Code of Ethics vs Code of Conduct
-📜 *(مدونة الأخلاق مقابل مدونة السلوك)*
+## 3. Code of Ethics vs Code of Conduct *(مدونة الأخلاق مقابل مدونة السلوك)*
 
 | | **Code of Ethics** | **Code of Conduct** |
 |---|---|---|
 | **Governs** | **Decision-making** | **Actions / behaviour** |
 | **What it is** | Broad **values & principles** | Specific **rules** |
-| **Answers** | "Why" — what should guide us | "What/how" — what's allowed or not |
+| **Answers** | "Why"  what should guide us | "What/how"  what's allowed or not |
 | **Style** | General, aspirational | Concrete, enforceable |
 | **Discipline** | Usually none | Often lists **penalties** for violations |
 | **Example** | ACM Code of Ethics | Workplace rules (SDAIA / NCA) |
@@ -136,8 +134,7 @@ Quick-revision notes for the final, organized to match the **10 exam topics** fr
 
 ---
 
-## 4. Security — CIA, Encryption, Digital Signature
-🔐 *(الأمن: الـ CIA، التشفير، التوقيع الرقمي)*
+## 4. Security  CIA, Encryption, Digital Signature *(الأمن: الـ CIA، التشفير، التوقيع الرقمي)*
 
 **Security** = a means to prevent unauthorized **access, use, alteration, theft, or physical damage**.
 
@@ -153,21 +150,20 @@ Quick-revision notes for the final, organized to match the **10 exam topics** fr
 - **Physical barriers:** fences, walls, motion sensors, CCTV, locks/keys, infrared/ultrasonic detectors, dogs.
 - **Electronic controls:** card-access systems, firewalls, passwords.
 
-**Passwords** *(external: Microsoft 365 Admin)* — don't reuse work passwords; enforce **MFA**; enable identity-protection risk policies; pair resets with an authentication app.
+**Passwords** *(external: Microsoft 365 Admin)*  don't reuse work passwords; enforce **MFA**; enable identity-protection risk policies; pair resets with an authentication app.
 
 **Encryption (التشفير):**
 - **Symmetric / secret-key:** one shared key (fast; problem = **key distribution**).
-- **Asymmetric / public-key:** **two keys** — public (known to all) + private (sender/receiver).
+- **Asymmetric / public-key:** **two keys**  public (known to all) + private (sender/receiver).
 - **Hash function:** one-way; creates a **message digest** ("fingerprint") → provides **integrity & authenticity**.
 
 **Authentication & Digital Signature:**
-- **Authentication** verifies a user is **genuine** (identity + message integrity). *Note: authentication ≠ integrity itself — integrity is its own pillar.*
+- **Authentication** verifies a user is **genuine** (identity + message integrity). *Note: authentication ≠ integrity itself  integrity is its own pillar.*
 - **Digital signature:** sender signs with **private key**, receiver verifies with the sender's **public key**; valid if hashes match. Two parts: a method of **signing**, and **authentication** that the signature is truly the signer's.
 
 ---
 
-## 5. Privacy & Information/Data Disclosure
-🛡️ *(الخصوصية والكشف عن المعلومات/البيانات)*
+## 5. Privacy & Information/Data Disclosure *(الخصوصية والكشف عن المعلومات/البيانات)*
 
 **Privacy** = a human attribute of **four elements**, in two categories:
 - **Control of external influences:**
@@ -179,10 +175,10 @@ Quick-revision notes for the final, organized to match the **10 exam topics** fr
 
 **Types of Privacy:**
 - **Personal** (personal *attributes*; e.g., US 4th Amendment)
-- **Informational** (protecting the *information itself* — personal/financial/medical)
+- **Informational** (protecting the *information itself*  personal/financial/medical)
 - **Institutional** (an *organization's* data; e.g., Samsung's source code put into ChatGPT)
 
-**Anonymity (إخفاء الهوية)** — good & bad sides.
+**Anonymity (إخفاء الهوية)**  good & bad sides.
 - *Advantages:* whistleblowing in an organization, national security, protecting some people.
 - *Disadvantages:* criminals can exploit it (online social networks).
 - **Pseudonymity vs untraceable identity:**
@@ -192,21 +188,20 @@ Quick-revision notes for the final, organized to match the **10 exam topics** fr
 **Information Disclosure** = making **confidential/sensitive info public without the owner's consent**; can be intentional or unintentional → identity theft, fraud, reputational damage.
 - **Enhanced 911 Services:** US providers must (by law) track active users within 100 m → *benefit:* reach people in distress; *downside:* privacy loss if location is sold/shared (e.g., a manager tracking a "sick" employee).
 
-**Privacy Right Protection — Guidelines/Structures:**
+**Privacy Right Protection  Guidelines/Structures:**
 - **Technical** (self-regulation, e.g., cookie notices)
 - **Contractual** (protection vs unauthorized reproduction/distribution)
-- **Legal** (laws + enforcement — e.g., **FERPA, 1974**: gives students/parents access to records, limits disclosure to third parties)
+- **Legal** (laws + enforcement  e.g., **FERPA, 1974**: gives students/parents access to records, limits disclosure to third parties)
 
 **Data Controller vs Data Processor:**
-- **Controller (المتحكم):** decides the **purposes and means** of processing — bears **accountability** (e.g., must notify SDAIA of a breach within 72h). In the course's *institutional privacy*, responsibility sits with **executives, privacy officers, and IT**.
+- **Controller (المتحكم):** decides the **purposes and means** of processing  bears **accountability** (e.g., must notify SDAIA of a breach within 72h). In the course's *institutional privacy*, responsibility sits with **executives, privacy officers, and IT**.
 - **Processor (المعالج):** processes data **on the controller's behalf**, following the controller's instructions (e.g., a cloud/analytics vendor).
 
-### 5.6 Acts & External Frameworks
-🌐 *(القوانين والأطر الخارجية)*
+### 5.6 Acts & External Frameworks *(القوانين والأطر الخارجية)*
 
-**SDAIA — Personal Data Disclosure Cases Guideline (the six cases)** · [official PDF](https://sdaia.gov.sa/Documents/PersonalDataDisclosureCasesGuideline.pdf)
+**SDAIA  Personal Data Disclosure Cases Guideline (the six cases)** · [official PDF](https://sdaia.gov.sa/Documents/PersonalDataDisclosureCasesGuideline.pdf)
 
-Under the Saudi **Personal Data Protection Law (PDPL)**, the Controller shall **not disclose** personal data — **except** in the six cases below.
+Under the Saudi **Personal Data Protection Law (PDPL)**, the Controller shall **not disclose** personal data  **except** in the six cases below.
 
 #### 1. Consent of the Personal Data Subject
 - The data subject has explicitly consented to the disclosure of their personal data.
@@ -240,7 +235,7 @@ Under the Saudi **Personal Data Protection Law (PDPL)**, the Controller shall **
   - Not involve sensitive personal data unless permitted by law.
   - *(Examples: detecting fraud, network/information security.)*
 
-**GDPR — EU General Data Protection Regulation** — comprehensive EU data-protection law (in force 2018), with **extraterritorial** reach.
+**GDPR  EU General Data Protection Regulation**  comprehensive EU data-protection law (in force 2018), with **extraterritorial** reach.
 - **Roles:** controller (decides purposes/means) and processor (acts on its behalf).
 - **Breach notice:** authority within **72 hours** (Art. 33); individuals without undue delay if **high risk** (Art. 34).
 - **Principles (Art. 5):** lawfulness/fairness/transparency, purpose limitation, **data minimization**, accuracy, storage limitation, integrity & confidentiality, accountability.
@@ -250,19 +245,18 @@ Under the Saudi **Personal Data Protection Law (PDPL)**, the Controller shall **
 
 ---
 
-## 6. Bias & Fairness — Seven Sources of Harm
-📊 *(التحيّز والعدالة — مصادر الضرر السبعة)*
+## 6. Bias & Fairness  Seven Sources of Harm *(التحيّز والعدالة  مصادر الضرر السبعة)*
 
 **Data generation (توليد البيانات):**
-- **Historical Bias** — e.g., word embeddings.
-- **Representation Bias** — e.g., population sampling, image-dataset geographic diversity.
-- **Measurement Bias** — e.g., feature selection, criminal-justice risk assessments.
+- **Historical Bias**  e.g., word embeddings.
+- **Representation Bias**  e.g., population sampling, image-dataset geographic diversity.
+- **Measurement Bias**  e.g., feature selection, criminal-justice risk assessments.
 
 **Model building (بناء النموذج):**
-- **Aggregation Bias** — one-size-fits-all model.
-- **Learning Bias** — accuracy, pruning.
-- **Evaluation Bias** — benchmark not matching the use population (e.g., facial-analysis tools).
-- **Deployment Bias** — risk-assessment tools used in practice.
+- **Aggregation Bias**  one-size-fits-all model.
+- **Learning Bias**  accuracy, pruning.
+- **Evaluation Bias**  benchmark not matching the use population (e.g., facial-analysis tools).
+- **Deployment Bias**  risk-assessment tools used in practice.
 
 > [!TIP]
 > - 3 in **data generation**
@@ -271,8 +265,7 @@ Under the Saudi **Personal Data Protection Law (PDPL)**, the Controller shall **
 
 ---
 
-## 7. Intellectual Property Types
-©️ *(أنواع الملكية الفكرية)*
+## 7. Intellectual Property Types *(أنواع الملكية الفكرية)*
 
 **IP** = any **unique product of the human intellect with commercial value** (books, songs, inventions, formulas, programs). **IP ≠ its physical manifestation.**
 
@@ -281,20 +274,19 @@ Under the Saudi **Personal Data Protection Law (PDPL)**, the Controller shall **
 | IP Type | Protects | Duration | Key facts & examples |
 |---|---|---|---|
 | 🔒 **Trade Secret**<br>*(السر التجاري)* | Confidential info that gives a **competitive advantage** | **Never expires** (while secret) | Reverse engineering **allowed** · lost once public · US = **state law** (no federal).<br>*Ex: Coca-Cola formula, Google's search algorithm* |
-| ™️ **Trademark / Service Mark**<br>*(العلامة التجارية)* | Brand identifiers — **goods** (trademark) vs **services** (service mark) | **Does not expire** | Lost if it becomes a **common noun** · protected via advertising & pursuing misuse.<br>*Ex: brand names; American Airlines (service)* |
-| 💡 **Patent**<br>*(براءة الاختراع)* | **Inventions** — a public document; exclusive right to make/use/sell | **~20 years** | Three types: **Utility · Design · Plant** |
+| ™️ **Trademark / Service Mark**<br>*(العلامة التجارية)* | Brand identifiers  **goods** (trademark) vs **services** (service mark) | **Does not expire** | Lost if it becomes a **common noun** · protected via advertising & pursuing misuse.<br>*Ex: brand names; American Airlines (service)* |
+| 💡 **Patent**<br>*(براءة الاختراع)* | **Inventions**  a public document; exclusive right to make/use/sell | **~20 years** | Three types: **Utility · Design · Plant** |
 | ©️ **Copyright**<br>*(حقوق النشر)* | **Original works** (the *expression*) | Long-term | **5 rights:** reproduction · distribution · public display · public performance · derivative works (~6% of US GDP) |
 
 **IP for Data (data vs database):** **raw data/facts generally can't be copyrighted**, but an **original, curated database** (the selection & arrangement) **can** be protected. *(So a company's organised dataset may be protectable even when the underlying facts aren't.)*
 
 ---
 
-## 8. Data and Ethics
-🗄️ *(البيانات والأخلاق)*
+## 8. Data and Ethics *(البيانات والأخلاق)*
 
 **Big Data Ethics Principles** (datacamp): **Transparency**, **Accountability**, **Individual Agency** (access/correct/delete your data), **Data Privacy**.
 
-**What does ethics have to do with data?** (Markkula Center) — no single rule set fits all contexts; a **"perfect storm of ethical risks"** (powerful/misused analytics, poorly-regulated market, missing standards) makes a **broader understanding of data ethics** essential.
+**What does ethics have to do with data?** (Markkula Center)  no single rule set fits all contexts; a **"perfect storm of ethical risks"** (powerful/misused analytics, poorly-regulated market, missing standards) makes a **broader understanding of data ethics** essential.
 
 **Data Stewardship:** have an **end-to-end lifecycle plan**, a **data steward (governance)**, and standards to **delete/correct/update** data; technique example = **data scrambling** (replace real values with fake ones).
 
@@ -302,20 +294,18 @@ Under the Saudi **Personal Data Protection Law (PDPL)**, the Controller shall **
 
 ---
 
-## 9. Ethical Issues in Data / Cybersecurity
-⚠️ *(القضايا الأخلاقية في البيانات/الأمن السيبراني)*
+## 9. Ethical Issues in Data / Cybersecurity *(القضايا الأخلاقية في البيانات/الأمن السيبراني)*
 
 **Common ethical challenges:** balancing **security vs other values**; **threat/incident response**; **breach/vulnerability**; **network monitoring vs privacy**; **competing interests & obligations**; **data storage & encryption**; **IoT / smart grid / product design**; **accountability**; broader impacts.
 
-**Important ethical issues — roles, duties & interests:** cybersecurity is **costly** (time, money, expertise); **usability can't justify weakening** security; **resource allocation** is itself ethical — find the right **balance** (e.g., a slow secure logon vs physicians needing fast access). Staff should **weigh harms, benefits, rights, and values before deciding.**
+**Important ethical issues  roles, duties & interests:** cybersecurity is **costly** (time, money, expertise); **usability can't justify weakening** security; **resource allocation** is itself ethical  find the right **balance** (e.g., a slow secure logon vs physicians needing fast access). Staff should **weigh harms, benefits, rights, and values before deciding.**
 
 ---
 
-## 10. Best Practices in Data / Cybersecurity
-✅ *(أفضل الممارسات في البيانات/الأمن السيبراني)*
+## 10. Best Practices in Data / Cybersecurity *(أفضل الممارسات في البيانات/الأمن السيبراني)*
 
 **Shared best practices (data & cybersecurity):**
-- Keep ethics **in the spotlight — out of the compliance box**.
+- Keep ethics **in the spotlight  out of the compliance box**.
 - Consider the **human lives & interests** behind data/systems.
 - Focus on **downstream risks & uses**.
 - Establish **chains of responsibility & accountability**.
@@ -328,7 +318,7 @@ Under the Saudi **Personal Data Protection Law (PDPL)**, the Controller shall **
 
 ---
 
-## ✅ Quick Exam Reminders
+## Quick Exam Reminders
 
 > [!TIP]
 > - **Ethics vs morals:** external/social vs internal/personal.
