@@ -164,10 +164,17 @@
 *(الخصوصية والكشف عن المعلومات/البيانات)*
 
 **Privacy** = a human attribute of **four elements**, in two categories :
-- **Control of external influences:** **Solitude** (be alone), **Anonymity** (no public identity), **Intimacy** (not monitored).
-- **Control of personal information:** **Reserve** (control your info & how it spreads).
+- **Control of external influences:**
+  -1. **Solitude** (be alone),
+  -2. **Anonymity** (no public identity),
+  -3. **Intimacy** (not monitored).
+- **Control of personal information:**
+  -4. **Reserve** (control your info & how it spreads).
 
-**Types of Privacy** : **Personal** (personal *attributes*; e.g., US 4th Amendment) · **Informational** (protecting the *information itself*  personal/financial/medical) · **Institutional** (an *organization's* data; e.g., Samsung's source code put into ChatGPT).
+**Types of Privacy** : 
+  - **Personal** (personal *attributes*; e.g., US 4th Amendment) ·
+  - **Informational** (protecting the *information itself*  personal/financial/medical) ·
+  - **Institutional** (an *organization's* data; e.g., Samsung's source code put into ChatGPT).
 
 **Anonymity (إخفاء الهوية)**   good & bad sides.
 - *Advantages:* whistleblowing in an organization, national security, protecting some people.
