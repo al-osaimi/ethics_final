@@ -198,7 +198,8 @@
 ### 5.6 Acts & External Frameworks
 *(القوانين والأطر الخارجية)*
 
-**SDAIA  Personal Data Disclosure Cases Guideline (the six cases) [here](https://sdaia.gov.sa/Documents/PersonalDataDisclosureCasesGuideline.pdf)** 
+**SDAIA  Personal Data Disclosure Cases Guideline (the six cases) [here](https://sdaia.gov.sa/Documents/PersonalDataDisclosureCasesGuideline.pdf)**
+
 *Interprets the Saudi **PDPL**; the Guideline is **non-binding**  the Law & Implementing Regulations are the reference. Across all cases the controller must tie disclosure to a **defined purpose**, exercise **due diligence**, and apply **data minimization** (only the minimum data necessary).*
 1. **Consent** of the personal data subject.
 2. **Publicly available source**  data lawfully obtained from a source already public.
