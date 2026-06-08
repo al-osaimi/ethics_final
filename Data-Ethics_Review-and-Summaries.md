@@ -142,9 +142,10 @@
 - **Integrity (السلامة):** prevent unauthorized **modification** (maintain status quo).
 - **Availability (التوفر):** prevent unauthorized **withholding** (access when needed). *(A **DDoS** attack violates availability.)*
 
-**Physical Access Controls** = physical barriers + electronic protocols.
+**Physical Security:** 
 - **Physical barriers:** fences, walls, motion sensors, CCTV, locks/keys, infrared/ultrasonic detectors, dogs.
 - **Electronic controls:** card-access systems, firewalls, passwords.
+> **Physical Access Controls** = physical barriers + electronic protocols.
 
 **Passwords** *(external: Microsoft 365 Admin)*  don't reuse work passwords; enforce **MFA**; enable identity-protection risk policies; pair resets with an authentication app.
 
