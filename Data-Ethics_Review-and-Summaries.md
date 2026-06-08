@@ -200,15 +200,42 @@
 
 **SDAIA  Personal Data Disclosure Cases Guideline (the six cases) [here](https://sdaia.gov.sa/Documents/PersonalDataDisclosureCasesGuideline.pdf)**
 
-*Interprets the Saudi **PDPL**; the Guideline is **non-binding**  the Law & Implementing Regulations are the reference. Across all cases the controller must tie disclosure to a **defined purpose**, exercise **due diligence**, and apply **data minimization** (only the minimum data necessary).*
-1. **Consent** of the personal data subject.
-2. **Publicly available source**  data lawfully obtained from a source already public.
-3. **Public-entity request**  for **public interest, security, implementing another law, or judicial requirements** (minimum data only).
-4. **Public health/safety**  to safeguard public health, public safety, or the **life/health of specific individuals** (e.g., emergencies).
-5. **De-identified subsequent processing**  disclosure limited to processing that **does not identify** the data subject or any other individual.
-6. **Controller's legitimate interests**  allowed **only if**: it doesn't unduly prejudice the data subject's rights, it's within the data subject's **reasonable expectations**, it does **NOT** involve **sensitive data**, and the controller has done a documented **Legitimate-Interest Assessment**. (Examples: detecting fraud, network/information security.)
+Under the Saudi Personal Data Protection Law (PDPL), the Controller shall **not disclose** personal data, except for the following cases:
 
-**SDAIA  Personal Data Breach (Procedural Guide, Oct 2024)**   the **Controller** must notify **SDAIA within 72 hours** of a breach likely to harm data subjects, and notify affected **data subjects** without undue delay. Three stages: **SDAIA Notice → Containment → Documentation.** Roles: Controller, Data Subject, **DPO**. (PDPL: Royal Decree M/19, amended M/148.)
+#### 1. Consent of the Personal Data Subject
+- The data subject has explicitly consented to the disclosure of their personal data.
+
+#### 2. Personal Data Collected from a Publicly Available Source
+- The personal data was obtained from a publicly available source.
+- Disclosure must comply with applicable laws and regulations.
+
+#### 3. Request by a Public Entity
+- Disclosure is required by a public authority for:
+  - Public interest purposes.
+  - Security purposes.
+  - Implementation of another law.
+  - Judicial or court requirements.
+
+#### 4. Protection of Public Health or Safety
+- Disclosure is necessary to protect:
+  - Public health.
+  - Public safety.
+  - The life or health of one or more individuals.
+
+#### 5. Anonymized or Non-Identifiable Processing
+- Disclosure is limited to subsequent processing where the data cannot identify:
+  - The personal data subject, or
+  - Any specific individual.
+
+#### 6. Legitimate Interests of the Controller
+- Disclosure is necessary to achieve the legitimate interests of the controller.
+- The disclosure must:
+  - Not adversely affect the rights or interests of the data subject.
+  - Not involve sensitive personal data unless permitted by law.
+  - (Examples: detecting fraud, network/information security.)
+
+
+**SDAIA  Personal Data Breach (Procedural Guide, Oct 2024)**  the **Controller** must notify **SDAIA within 72 hours** of a breach likely to harm data subjects, and notify affected **data subjects** without undue delay. Three stages: **SDAIA Notice → Containment → Documentation.** Roles: Controller, Data Subject, **DPO**. (PDPL: Royal Decree M/19, amended M/148.)
 
 **GDPR  EU General Data Protection Regulation**  *(filled gap)*  comprehensive EU data-protection law (in force 2018), with **extraterritorial** reach.
 - **Roles:** controller (decides purposes/means) and processor (acts on its behalf).
