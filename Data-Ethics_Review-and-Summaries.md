@@ -186,7 +186,10 @@
 **Information Disclosure**  = making **confidential/sensitive info public without the owner's consent**; can be intentional or unintentional → identity theft, fraud, reputational damage.
 - **Enhanced 911 Services:** US providers must (by law) track active users within 100 m → *benefit:* reach people in distress; *downside:* privacy loss if location is sold/shared (e.g., a manager tracking a "sick" employee).
 
-**Privacy Right Protection  Guidelines/Structures** : **Technical** (self-regulation, e.g., cookie notices), **Contractual** (protection vs unauthorized reproduction/distribution), **Legal** (laws + enforcement  e.g., **FERPA, 1974**: gives students/parents access to records, limits disclosure to third parties).
+**Privacy Right Protection  Guidelines/Structures** : 
+  - **Technical** (self-regulation, e.g., cookie notices),
+  - **Contractual** (protection vs unauthorized reproduction/distribution),
+  - **Legal** (laws + enforcement  e.g., **FERPA, 1974**: gives students/parents access to records, limits disclosure to third parties).
 
 **Data Controller vs Data Processor**  *(filled gap)*:
 - **Controller (المتحكم):** decides the **purposes and means** of processing  bears **accountability** (e.g., must notify SDAIA of a breach within 72h). In the course's *institutional privacy*, responsibility sits with **executives, privacy officers, and IT**.
@@ -194,8 +197,6 @@
 
 ### 5.6 Acts & External Frameworks
 *(القوانين والأطر الخارجية)*
-
-
 **SDAIA  Personal Data Disclosure Cases Guideline (the six cases)** 
 *Interprets the Saudi **PDPL**; the Guideline is **non-binding**  the Law & Implementing Regulations are the reference. Across all cases the controller must tie disclosure to a **defined purpose**, exercise **due diligence**, and apply **data minimization** (only the minimum data necessary).*
 1. **Consent** of the personal data subject.
@@ -211,7 +212,8 @@
 - **Roles:** controller (decides purposes/means) and processor (acts on its behalf).
 - **Breach notice:** authority within **72 hours** (Art. 33); individuals without undue delay if **high risk** (Art. 34).
 - **Principles (Art. 5):** lawfulness/fairness/transparency, purpose limitation, **data minimization**, accuracy, storage limitation, integrity & confidentiality, accountability.
-- **SDAIA/PDPL vs GDPR:** both use controller/processor roles, the **72-hour** rule, and **data minimization**; PDPL bars the **legitimate-interest** basis for **sensitive** data and gives ~30 days (extendable) for data-subject requests (GDPR ≈ 3 months for complex ones).
+  
+> **SDAIA/PDPL vs GDPR:** both use controller/processor roles, the **72-hour** rule, and **data minimization**; PDPL bars the **legitimate-interest** basis for **sensitive** data and gives ~30 days (extendable) for data-subject requests (GDPR ≈ 3 months for complex ones).
 
 ---
 
