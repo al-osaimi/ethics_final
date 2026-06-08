@@ -64,9 +64,13 @@
 
 **Each theory + 2 examples:**
 
-- **Consequentialism (العواقبية)**  judged by results. Types: **Egoism (الأنانية)** = self first; **Utilitarianism (النفعية)** = the group first; **Altruism (الإيثار)** = favours everyone *except* the actor.
-  - Releasing an AI model is "good" because overall it helps more than it harms.
-  - Collecting data without consent is "right" only if benefits outweigh harms.
+- **Consequentialism (العواقبية)**  judged by results. Types:
+  - **Egoism (الأنانية)** = self first;
+  - **Utilitarianism (النفعية)** = the group first;
+  - **Altruism (الإيثار)** = favours everyone *except* the actor.
+  - **Examples:**
+    - Releasing an AI model is "good" because overall it helps more than it harms.
+    - Collecting data without consent is "right" only if benefits outweigh harms.
 - **Deontology (الواجب)**  good if done as a duty.
   - Killing vs killing to save lives.
   - Hacking vs **ethical hacking** (a tester with permission acts from duty).
