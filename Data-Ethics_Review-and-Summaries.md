@@ -284,21 +284,51 @@ Under the Saudi **Personal Data Protection Law (PDPL)**, the Controller shall **
 
 ## 8. Data and Ethics *(البيانات والأخلاق)*
 
-**Big Data Ethics Principles** (datacamp): **Transparency**, **Accountability**, **Individual Agency** (access/correct/delete your data), **Data Privacy**.
+**significant harms and benefits can data present?**
 
-**What does ethics have to do with data?** (Markkula Center)  no single rule set fits all contexts; a **"perfect storm of ethical risks"** (powerful/misused analytics, poorly-regulated market, missing standards) makes a **broader understanding of data ethics** essential.
+**✅ Benefits of data:**
 
-**Data Stewardship:** have an **end-to-end lifecycle plan**, a **data steward (governance)**, and standards to **delete/correct/update** data; technique example = **data scrambling** (replace real values with fake ones).
+- Human understanding — data helps us understand the world and how complex systems work, so we can act more wisely.
+- Social, institutional & economic efficiency — with a clearer picture, we can improve systems (example: big data improving regional traffic).
+- Predictive accuracy & personalization — better predictions and personalized services make systems run more efficiently.
 
-**Data Hygiene & Relevance:** validate/audit data, ensure **consistent field labels** and **integrity during transfer**, **scrub dirty data**, and **refresh out-of-date datasets**.
+**⚠️ Harms of data:**
+- Harms to privacy & security — personal data can be exposed, misused, or stolen (breaches, surveillance).
+- Harms to fairness & justice — biased data or decisions can discriminate against people.
+- Harms to transparency & autonomy — "black box" systems reduce people's understanding and control (example: a deep-learning loan model that rejects you but can't explain why).
+
+**Data Stewardship (الإشراف المسؤول على البيانات):** 
+have an **end-to-end lifecycle plan**, a **data steward (governance)**, and standards to **delete/correct/update** data.
+  - **Example:** a hospital assigns a data steward for patient records who keeps a plan for how records are stored, who may see them, and how they're corrected or deleted on request — and uses **data scrambling** (replacing real names/ID numbers with fake ones) to protect them in test systems.
+
+**Data Hygiene  (نظافة البيانات):** 
+Data hygiene is the process of keeping databases clean and error-free. Data that is *outdated, incomplete, duplicated, or simply incorrect* is known as “dirty data,” 
+  - **Example:** cleaning a customer contact list delete duplicate rows, make every phone number the same format, and update addresses that have changed.
+
+
 
 ---
 
 ## 9. Ethical Issues in Data / Cybersecurity *(القضايا الأخلاقية في البيانات/الأمن السيبراني)*
 
-**Common ethical challenges:** balancing **security vs other values**; **threat/incident response**; **breach/vulnerability**; **network monitoring vs privacy**; **competing interests & obligations**; **data storage & encryption**; **IoT / smart grid / product design**; **accountability**; broader impacts.
+**Common ethical challenges** for cybersecurity professionals:
+- **Balancing security vs other values**
+- **Threat / incident response**
+- **Security breach / vulnerability**
+- **Network monitoring vs user privacy**
+- **Competing interests & obligations**
+- **Data storage & encryption**
+- **IoT, smart grid & product design**
+- **Accountability** for cybersecurity
+- Understanding the **broader impacts** of cybersecurity practice
 
-**Important ethical issues  roles, duties & interests:** cybersecurity is **costly** (time, money, expertise); **usability can't justify weakening** security; **resource allocation** is itself ethical  find the right **balance** (e.g., a slow secure logon vs physicians needing fast access). Staff should **weigh harms, benefits, rights, and values before deciding.**
+**Important ethical issues — roles, duties & interests:**
+- Cybersecurity is **inevitably costly** it consumes **time, money, and expertise**.
+- **Usability / product-viability concerns can't justify weakening** security.
+- **Resource allocation** is itself an ethical issue  finding the right **balance** between security and competing needs.
+
+> [!IMPORTANT]
+> **Exam example:** a hospital adds a slow but very secure logon while physicians need fast access. Staff must **weigh harms, benefits, rights, and values before deciding.**
 
 ---
 
