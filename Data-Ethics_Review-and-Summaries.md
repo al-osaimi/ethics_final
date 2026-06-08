@@ -105,7 +105,14 @@
 - Matt's capstone code didn't meet spec; teammates rewrote it; in the final presentation he **claimed it as his own**. He asks Josh for a false good review so he can stay in school.
 - **Decision (virtue ethics):** Josh must be **truthful** with the professor, won't just say "Matt was poor," and **takes responsibility for his own role** in the outcome → honesty + accountability.
 
-**Ethical Decision-Making Framework**   recognize the ethical conflict → understand the problem & facts → know the parties → be aware of alternatives → know ethical practices → understand how it's implemented & who's affected → understand the impact on affected parties.
+**Ethical Decision-Making Framework**   
+  - recognize the ethical conflict
+  - understand the problem & facts
+  - know the parties
+  - be aware of alternatives
+  - know ethical practices
+  - understand how it's implemented & who's affected
+  - understand the impact on affected parties.
 
 ---
 
