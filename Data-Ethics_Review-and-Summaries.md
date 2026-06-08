@@ -179,7 +179,9 @@
 **Anonymity (إخفاء الهوية)**   good & bad sides.
 - *Advantages:* whistleblowing in an organization, national security, protecting some people.
 - *Disadvantages:* criminals can exploit it (online social networks).
-- **Pseudonymity vs untraceable identity** / *(filled gap)*: **Pseudonymity** = identified by a code/pen-name (linkable with extra info); SDAIA defines **pseudonymisation** as converting identifiers into codes that make direct identification difficult without additional data. **Untraceable identity** = known by no name at all (not linkable).
+- **Pseudonymity vs untraceable identity** / *(filled gap)*:
+  - **Pseudonymity (الأسماء المستعارة)** = identified by a code/pen-name (linkable with extra info); SDAIA defines **pseudonymisation** as converting identifiers into codes that make direct identification difficult without additional data.
+  - **Untraceable identity (هوية لا يمكن تتبعها)** = known by no name at all (not linkable).
 
 **Information Disclosure**  = making **confidential/sensitive info public without the owner's consent**; can be intentional or unintentional → identity theft, fraud, reputational damage.
 - **Enhanced 911 Services:** US providers must (by law) track active users within 100 m → *benefit:* reach people in distress; *downside:* privacy loss if location is sold/shared (e.g., a manager tracking a "sick" employee).
