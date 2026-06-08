@@ -40,7 +40,10 @@
 
 **Is computer ethics unique?  Walter Maner** 
 - Some issues are so **transformed** by computers they deserve study in their **radically altered form**; computing can create **entirely new ethical issues** unique to it.
-- Why study it: (1) to **behave** like responsible professionals; (2) to **avoid** computer abuse/catastrophes; (3) because technology keeps creating **temporary policy gaps**.
+- Why study it:
+  - (1) to **behave** like responsible professionals;
+  - (2) to **avoid** computer abuse/catastrophes;
+  - (3) because technology keeps creating **temporary policy gaps**.
 
 ---
 
